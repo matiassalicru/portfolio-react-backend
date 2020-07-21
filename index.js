@@ -17,6 +17,10 @@ app.get('/Portfolio', (req, res) => {
     res.json(portfolio);
 });
 
+app.get('/' , (req, res) => {
+     res.send("it's working");
+})
+
 app.listen(port, () => {
     console.log(`Server on ; ${port}`);
 });
