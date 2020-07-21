@@ -14,11 +14,11 @@ app.get('/about', (req, res) =>{
     res.json(about);
 });
 
-app.get('/Portfolio', (req, res) => {
+app.get('/portfolio', (req, res) => {
     res.json(portfolio);
 });
 
-app.get('/Contact', (req, res) => {
+app.get('/contact', (req, res) => {
     res.json(contact);
 })
 
