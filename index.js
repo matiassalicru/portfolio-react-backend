@@ -21,6 +21,10 @@ app.get('/' , (req, res) => {
      res.send("it's working");
 })
 
+app.get('/Contact', (req, res) => {
+    res.json(contact);
+})
+
 app.listen(port, () => {
     console.log(`Server on ; ${port}`);
 });
