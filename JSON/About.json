@@ -3,8 +3,8 @@
         "name": "Matias Salicrú",
         "profession": "Front-end web developer",
         "photo" : "https://i.ibb.co/JqZY3v9/00100s-PORTRAIT-00100-BURST20200106181831187-COVER.jpg",
-        "About" : "Soy un desarrollador Jr/Trainee en constante capacitación con aspiración de ser Full Stack web Developer, amo la tecnología, el diseño y los gatos!",
-        "Skills" : [
+        "about" : "Soy un desarrollador Jr/Trainee en constante capacitación con aspiración de ser Full Stack web Developer, amo la tecnología, el diseño y los gatos!",
+        "skills" : [
             "JavaScript",
             "HTML5",
             "CSS3",
