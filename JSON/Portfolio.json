@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name" : "IngEnSistemas",
         "description" : "Utilizando HTML5, CSS y JavaScript logré darle un diseño que realmente me gustó mucho integrando un 'dark mode' con funcionalidades y orientado a la educación contando mi experiencia y compartiendo las primeras clases que tuve en mi carrera de Ingeniería en Sistemas",
         "image" : "https://i.ibb.co/gDkm05J/ingensistemas.jpg",
@@ -7,31 +8,35 @@
         "link" : "https://ingensistemas.000webhostapp.com/" 
     },
     {
-        "name" : "Tasks List App",
-        "description" : "Mi primer aplicación creada en JavaScript Vanilla, con semántica HTML5 y aplicando estilos de CSS fué la primer aplicación que desarrollé desde los recursos que tenía sin seguir tutoriales, leyendo documentación e implementando conocimientos, pensando en como resolver los problemas que se me plantearon durante el desarrollo, la misma tiene integrado localStorage para almacenar las tareas.",
-        "image" : "https://i.ibb.co/Tv7CHFk/task-list-appp.png",
-        "deploy" : "Netlify",
-        "link" : "https://task-listapp.netlify.app/" 
+      "id": 2,
+      "name": "Tasks List App",
+      "description": "Mi primer aplicación creada en JavaScript Vanilla, con semántica HTML5 y aplicando estilos de CSS fué la primer aplicación que desarrollé desde los recursos que tenía sin seguir tutoriales, leyendo documentación e implementando conocimientos, pensando en como resolver los problemas que se me plantearon durante el desarrollo, la misma tiene integrado localStorage para almacenar las tareas.",
+      "image": "https://i.ibb.co/Tv7CHFk/task-list-appp.png",
+      "deploy": "Netlify",
+      "link": "https://task-listapp.netlify.app/"
     },
     {
-        "name" : "Job Board",
-        "description" : "Durante el desarrollo de ésta página tuve mi primer experiencia de trabajo en equipo haciendo pair programming con una amiga de una comunidad, teniendo mentoría en algunos momentos de un desarrollador senior que nos enseño muchisimo acerca de JavaScript y de lectura de archivos JSON.",
-        "image" : "https://i.ibb.co/DknN85B/job-board.png",
-        "deploy" : "Vercel",
-        "link" : "https://jobboard-git-master.matiassalicru.vercel.app/" 
+      "id": 3,
+      "name": "Job Board",
+      "description": "Durante el desarrollo de ésta página tuve mi primer experiencia de trabajo en equipo haciendo pair programming con una amiga de una comunidad, teniendo mentoría en algunos momentos de un desarrollador senior que nos enseño muchisimo acerca de JavaScript y de lectura de archivos JSON.",
+      "image": "https://i.ibb.co/DknN85B/job-board.png",
+      "deploy": "Vercel",
+      "link": "https://jobboard-git-master.matiassalicru.vercel.app/"
     },
     {
-        "name" : "Blog en ReactJS",
-        "description" : "Mi primer proyecto en ReactJS fue éste blog donde quería practicar un poco mi escritura en inglés, durante la creacion del mismo aprendí las bases de la librería React, utlizando props y creando componentes desde cero.",
-        "image" : "https://i.ibb.co/Jd3zLFr/reacting-blog.png",
-        "deploy" : "Netlify",
-        "link" : "https://reactingblog.netlify.app/" 
+      "id": 4,
+      "name": "Blog en ReactJS",
+      "description": "Mi primer proyecto en ReactJS fue éste blog donde quería practicar un poco mi escritura en inglés, durante la creacion del mismo aprendí las bases de la librería React, utlizando props y creando componentes desde cero.",
+      "image": "https://i.ibb.co/Jd3zLFr/reacting-blog.png",
+      "deploy": "Netlify",
+      "link": "https://reactingblog.netlify.app/"
     },
     {
-        "name" : "Blog con JavaScript Vanilla",
-        "description" : "Luego de crear este blog en React decidí que necesitaba reforzar mis conocimientos en JavaScript por lo que decidí reescribir todo el blog que hice anteriormente en React pero esta vez solo utilizando Vanilla JavaScript agregando esta vez mucho más funcionalidades, utlizando un proyecto de gitHub ('json-server') que me permitía enviar peticiones al JSON local simulando una base de datos real.",
-        "image" : "https://i.ibb.co/3mrnfmr/Jscripting-Blgo.png",
-        "deploy" : "Netlify",
-        "link" : "https://jscriptingblog.netlify.app/" 
+      "id": 5,
+      "name": "Blog con JavaScript Vanilla",
+      "description": "Luego de crear este blog en React decidí que necesitaba reforzar mis conocimientos en JavaScript por lo que decidí reescribir todo el blog que hice anteriormente en React pero esta vez solo utilizando Vanilla JavaScript agregando esta vez mucho más funcionalidades, utlizando un proyecto de gitHub ('json-server') que me permitía enviar peticiones al JSON local simulando una base de datos real.",
+      "image": "https://i.ibb.co/3mrnfmr/Jscripting-Blgo.png",
+      "deploy": "Netlify",
+      "link": "https://jscriptingblog.netlify.app/"
     }
 ]
