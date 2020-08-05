@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "name": "Blog con JavaScript Vanilla",
+      "name": "Blog en JavaScript",
       "description": "Luego de crear este blog en React decidí que necesitaba reforzar mis conocimientos en JavaScript por lo que decidí reescribir todo el blog que hice anteriormente en React pero esta vez solo utilizando Vanilla JavaScript agregando esta vez mucho más funcionalidades, utlizando un proyecto de gitHub ('json-server') que me permitía enviar peticiones al JSON local simulando una base de datos real.",
       "image": "https://i.imgur.com/TTX83Co.png",
       "deploy": "Netlify",
