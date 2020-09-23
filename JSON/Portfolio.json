@@ -25,11 +25,11 @@
     },
     {
       "id": 4,
-      "name": "Blog en ReactJS",
-      "description": "Mi primer proyecto en ReactJS fue éste blog donde quería practicar un poco mi escritura en inglés, durante la creacion del mismo aprendí las bases de la librería React, utlizando props y creando componentes desde cero.",
-      "image": "https://i.imgur.com/wa6mDSH.png",
-      "deploy": "Netlify",
-      "link": "https://reactingblog.netlify.app/"
+      "name": "Gif to you App",
+      "description": "Desarrollado en React interactuando con la API de Giphy para la búsqueda de gifs por un input, fue un proyecto muy divertido de crear donde utilicé en profundidad el uso de esta API, en el mismo realicé varios de mis primeros test con Jest y Enzyme.",
+      "image": "https://i.imgur.com/OZ9IQOd.png",
+      "deploy": "GitHub Pages",
+      "link": "https://matiassalicru.github.io/Gif-Expert-App/"
     },
     {
       "id": 5,
