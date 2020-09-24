@@ -27,7 +27,7 @@
       "id": 4,
       "name": "Gif to you App",
       "description": "Desarrollado en React interactuando con la API de Giphy para la búsqueda de gifs por un input, fue un proyecto muy divertido de crear donde utilicé en profundidad el uso de esta API, en el mismo realicé varios de mis primeros test con Jest y Enzyme.",
-      "image": "https://i.imgur.com/OZ9IQOd.png",
+      "image": "https://i.imgur.com/0mv0bY4.png",
       "deploy": "GitHub Pages",
       "link": "https://matiassalicru.github.io/Gif-Expert-App/"
     },
