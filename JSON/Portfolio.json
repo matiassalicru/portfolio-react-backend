@@ -46,5 +46,13 @@
       "image": "https://i.imgur.com/PNXBPOn.png",
       "deploy": "Heroku",
       "link" : "https://matiassalicrudev.herokuapp.com/"
+    },
+    {
+      "id": 7,
+      "name": "Curriculum Vitae",
+      "description": "Curriculum bastante simple, responsive design, HTML5, CSS3 y JavaScript.",
+      "image": "https://i.imgur.com/4suwfYM.png",
+      "deploy": "Github Pages",
+      "link": "https://matiassalicru.github.io/curriculum-v2/"
     }
 ]
