@@ -61,5 +61,14 @@
       "imageG": "https://i.imgur.com/4suwfYM.png",
       "deploy": "Github Pages",
       "link": "https://matiassalicru.github.io/curriculum-v2/"
+    },
+    {
+      "id": 8,
+      "name": "Upo Bastidores",
+      "description": "Projecto Freelance para un emprendimiento de bastidores de Córdoba Capital!",
+      "image": "https://i.imgur.com/e1kTZwh.png",
+      "imageG": "https://i.imgur.com/p695eaa.png",
+      "deploy": "Cpanel con hosting y dominio .com.ar",
+      "link": "https://upo.com.ar/"
     }
 ]
