@@ -1,33 +1,15 @@
 [
     {
-        "id": 1,
-        "name" : "IngEnSistemas",
-        "description" : "Utilizando HTML5, CSS y JavaScript logré darle un diseño que realmente me gustó mucho integrando un 'dark mode' con funcionalidades y orientado a la educación contando mi experiencia y compartiendo las primeras clases que tuve en mi carrera de Ingeniería en Sistemas",
-        "image" : "https://i.imgur.com/kSxX1PQ.png",
-        "imageG" : "https://i.imgur.com/EFkW96A.png",
-        "deploy": "000webhost",
-        "link" : "https://ingensistemas.000webhostapp.com/" 
+      "id": 1,
+      "name": "To Do List",
+      "description": "Todo list hecha en React donde usé por primera vez un Custom hook, y los useReducer y useContext, funciona con localStorage para utilizarla como app diaria de tareas.",
+      "image": "https://i.imgur.com/LtZe6Um.png",
+      "imageG": "https://i.imgur.com/4FK15k1.png",
+      "deploy": "Netlify",
+      "link": "https://apptodos.netlify.app/"
     },
     {
       "id": 2,
-      "name": "Tasks List App",
-      "description": "Mi primer aplicación creada en JavaScript Vanilla, con semántica HTML5 y aplicando estilos de CSS fué la primer aplicación que desarrollé desde los recursos que tenía sin seguir tutoriales, leyendo documentación e implementando conocimientos, pensando en como resolver los problemas que se me plantearon durante el desarrollo, la misma tiene integrado localStorage para almacenar las tareas.",
-      "image": "https://i.imgur.com/LtZe6Um.png",
-      "imageG": "https://i.imgur.com/LO7ixAO.png",
-      "deploy": "Netlify",
-      "link": "https://task-listapp.netlify.app/"
-    },
-    {
-      "id": 3,
-      "name": "Job Board",
-      "description": "Durante el desarrollo de ésta página tuve mi primer experiencia de trabajo en equipo haciendo pair programming con una amiga de una comunidad, teniendo mentoría en algunos momentos de un desarrollador senior que nos enseño muchisimo acerca de JavaScript y de lectura de archivos JSON.",
-      "image": "https://i.imgur.com/QkkVFVF.png",
-      "imageG": "https://i.imgur.com/NruWAcq.png",
-      "deploy": "Vercel",
-      "link": "https://jobboard-git-master.matiassalicru.vercel.app/"
-    },
-    {
-      "id": 4,
       "name": "Gif to you App",
       "description": "Desarrollado en React interactuando con la API de Giphy para la búsqueda de gifs por un input, fue un proyecto muy divertido de crear donde utilicé en profundidad el uso de esta API, en el mismo realicé varios de mis primeros test con Jest y Enzyme.",
       "image": "https://i.imgur.com/2Egx2PD.png",
@@ -36,16 +18,7 @@
       "link": "https://matiassalicru.github.io/Gif-Expert-App/"
     },
     {
-      "id": 5,
-      "name": "Blog en JavaScript",
-      "description": "Luego de crear este blog en React decidí que necesitaba reforzar mis conocimientos en JavaScript por lo que decidí reescribir todo el blog que hice anteriormente en React pero esta vez solo utilizando Vanilla JavaScript agregando esta vez mucho más funcionalidades, utlizando un proyecto de gitHub ('json-server') que me permitía enviar peticiones al JSON local simulando una base de datos real.",
-      "image": "https://i.imgur.com/pmA6AXW.png",
-      "imageG": "https://i.imgur.com/TTX83Co.png",
-      "deploy": "Netlify",
-      "link": "https://jscriptingblog.netlify.app/"
-    },
-    {
-      "id": 6,
+      "id": 3,
       "name": "Primer portfolio",
       "description": "Mi primer portfolio creado con HTML y CSS a medida que iba aprendiendo sobre JS también le fuí implementando pequeñas funcionalidades.",
       "image": "https://i.imgur.com/Otg605n.png",
@@ -54,16 +27,7 @@
       "link": "https://matiassalicrudev.herokuapp.com/"
     },
     {
-      "id": 7,
-      "name": "Curriculum Vitae",
-      "description": "Curriculum bastante simple, responsive design, HTML5, CSS3 y JavaScript.",
-      "image": "https://i.imgur.com/fss6jII.png",
-      "imageG": "https://i.imgur.com/4suwfYM.png",
-      "deploy": "Github Pages",
-      "link": "https://matiassalicru.github.io/curriculum-v2/"
-    },
-    {
-      "id": 8,
+      "id": 4,
       "name": "Upo Bastidores",
       "description": "Projecto Freelance para un emprendimiento de bastidores de Córdoba Capital!",
       "image": "https://i.imgur.com/e1kTZwh.png",
