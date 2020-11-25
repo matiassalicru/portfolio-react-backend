@@ -1,47 +1,47 @@
 [
-    {
-      "id": 1,
-      "name": "To Do List",
-      "description": "Todo list hecha en React donde usé por primera vez un Custom hook, y los useReducer y useContext, funciona con localStorage para utilizarla como app diaria de tareas.",
-      "image": "https://i.imgur.com/LtZe6Um.png",
-      "imageG": "https://i.imgur.com/4FK15k1.png",
-      "deploy": "Netlify",
-      "link": "https://apptodos.netlify.app/"
-    },
-    {
-      "id": 2,
-      "name": "Gif to you App",
-      "description": "Desarrollado en React interactuando con la API de Giphy para la búsqueda de gifs por un input, fue un proyecto muy divertido de crear donde utilicé en profundidad el uso de esta API, en el mismo realicé varios de mis primeros test con Jest y Enzyme.",
-      "image": "https://i.imgur.com/2Egx2PD.png",
-      "imageG": "https://i.imgur.com/0mv0bY4.png",
-      "deploy": "GitHub Pages",
-      "link": "https://matiassalicru.github.io/Gif-Expert-App/"
-    },
-    {
-      "id": 3,
-      "name": "Primer portfolio",
-      "description": "Mi primer portfolio creado con HTML y CSS a medida que iba aprendiendo sobre JS también le fuí implementando pequeñas funcionalidades.",
-      "image": "https://i.imgur.com/Otg605n.png",
-      "imageG": "https://i.imgur.com/PNXBPOn.png",
-      "deploy": "Heroku",
-      "link": "https://matiassalicrudev.herokuapp.com/"
-    },
-    {
-      "id": 4,
-      "name": "Upo Bastidores",
-      "description": "Projecto Freelance para un emprendimiento de bastidores de Córdoba Capital!",
-      "image": "https://i.imgur.com/e1kTZwh.png",
-      "imageG": "https://i.imgur.com/p695eaa.png",
-      "deploy": "Cpanel con hosting y dominio .com.ar",
-      "link": "https://upo.com.ar/"
-    },
-    {
-      "id": 5,
-      "name": "Login App",
-      "description": "App de Login usando Firebase, React, Redux, Hooks, Routers, en la misma puedes crearte una cuenta con email y password o ingresar con Google, una vez que inicias sesión se muestra tu uid de Firebase",
-      "image": "https://i.imgur.com/1HSspO9.png",
-      "imageG": "https://i.imgur.com/zJz8mLP.png",
-      "deploy": "Netlify",
-      "link": "https://login-firebase.netlify.app/"
-    }
+  {
+    "id": 1,
+    "name": "Login App",
+    "description": "App de Login usando Firebase, React, Redux, Hooks, Routers, en la misma puedes crearte una cuenta con email y password o ingresar con Google, una vez que inicias sesión se muestra tu uid de Firebase",
+    "image": "https://i.imgur.com/1HSspO9.png",
+    "imageG": "https://i.imgur.com/zJz8mLP.png",
+    "deploy": "Netlify",
+    "link": "https://login-firebase.netlify.app/"
+  },
+  {
+    "id": 2,
+    "name": "Upo Bastidores",
+    "description": "Projecto Freelance para un emprendimiento de bastidores de Córdoba Capital!",
+    "image": "https://i.imgur.com/e1kTZwh.png",
+    "imageG": "https://i.imgur.com/p695eaa.png",
+    "deploy": "Cpanel con hosting y dominio .com.ar",
+    "link": "https://upo.com.ar/"
+  },
+  {
+    "id": 3,
+    "name": "Gif to you App",
+    "description": "Desarrollado en React interactuando con la API de Giphy para la búsqueda de gifs por un input, fue un proyecto muy divertido de crear donde utilicé en profundidad el uso de esta API, en el mismo realicé varios de mis primeros test con Jest y Enzyme.",
+    "image": "https://i.imgur.com/2Egx2PD.png",
+    "imageG": "https://i.imgur.com/0mv0bY4.png",
+    "deploy": "GitHub Pages",
+    "link": "https://matiassalicru.github.io/Gif-Expert-App/"
+  },
+  {
+    "id": 4,
+    "name": "Primer portfolio",
+    "description": "Mi primer portfolio creado con HTML y CSS a medida que iba aprendiendo sobre JS también le fuí implementando pequeñas funcionalidades.",
+    "image": "https://i.imgur.com/Otg605n.png",
+    "imageG": "https://i.imgur.com/PNXBPOn.png",
+    "deploy": "Heroku",
+    "link": "https://matiassalicrudev.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "name": "To Do List",
+    "description": "Todo list hecha en React donde usé por primera vez un Custom hook, y los useReducer y useContext, funciona con localStorage para utilizarla como app diaria de tareas.",
+    "image": "https://i.imgur.com/LtZe6Um.png",
+    "imageG": "https://i.imgur.com/4FK15k1.png",
+    "deploy": "Netlify",
+    "link": "https://apptodos.netlify.app/"
+  }
 ]
