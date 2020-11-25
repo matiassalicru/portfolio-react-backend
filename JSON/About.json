@@ -6,9 +6,10 @@
         "about" : "Soy un desarrollador Jr en constante capacitación con aspiración de ser Full Stack web Developer, amo la tecnología, el diseño y los gatos!",
         "skills" : [
             "Git",
+            "Github",
             "Visual Studio Code",
             "React JS",
-            "HTML5, CSS3, JavaScript"
+            "Sass"
         ],
         "cv" : "https://matiassalicru.github.io/curriculum-v2/"
     }
