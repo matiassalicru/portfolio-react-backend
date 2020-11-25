@@ -34,5 +34,14 @@
       "imageG": "https://i.imgur.com/p695eaa.png",
       "deploy": "Cpanel con hosting y dominio .com.ar",
       "link": "https://upo.com.ar/"
+    },
+    {
+      "id": 5,
+      "name": "Login App",
+      "description": "App de Login usando Firebase, React, Redux, Hooks, Routers, en la misma puedes crearte una cuenta con email y password o ingresar con Google, una vez que inicias sesión se muestra tu uid de Firebase",
+      "image": "https://i.imgur.com/TyUP7sL.png",
+      "imageG": "https://i.imgur.com/zJz8mLP.png",
+      "deploy": "Netlify",
+      "link": "https://login-firebase.netlify.app/"
     }
 ]
