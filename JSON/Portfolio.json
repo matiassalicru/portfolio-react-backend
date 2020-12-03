@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Login App",
+    "name": "Firebase Login",
     "description": "App de Login usando Firebase, React, Redux, Hooks, Routers, en la misma puedes crearte una cuenta con email y password o ingresar con Google, una vez que inicias sesión se muestra tu uid de Firebase",
     "image": "https://i.imgur.com/1HSspO9.png",
     "imageG": "https://i.imgur.com/zJz8mLP.png",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "name": "Gif to you App",
+    "name": "Gify",
     "description": "Desarrollado en React interactuando con la API de Giphy para la búsqueda de gifs por un input, fue un proyecto muy divertido de crear donde utilicé en profundidad el uso de esta API, en el mismo realicé varios de mis primeros test con Jest y Enzyme.",
     "image": "https://i.imgur.com/2Egx2PD.png",
     "imageG": "https://i.imgur.com/0mv0bY4.png",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "name": "Journal App",
+    "name": "Journaling",
     "description": "Aplicación de notas en la cual también puedes cargar imágenes, la misma cuenta con autenticación y base de datos en firebase y con nube en cloudinary para la subida de imágenes.",
     "image": "https://i.imgur.com/L65ekAY.png",
     "imageG": "https://i.imgur.com/VN42Alz.png",
