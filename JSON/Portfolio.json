@@ -43,5 +43,14 @@
     "imageG": "https://i.imgur.com/4FK15k1.png",
     "deploy": "Netlify",
     "link": "https://apptodos.netlify.app/"
+  },
+  {
+    "id": 6,
+    "name": "Journal App",
+    "description": "Aplicación de notas en la cual también puedes cargar imágenes, la misma cuenta con autenticación y base de datos en firebase y con nube en cloudinary para la subida de imágenes.",
+    "image": "https://i.imgur.com/L65ekAY.png",
+    "imageG": "https://i.imgur.com/VN42Alz.png",
+    "deploy": "Firebase",
+    "link": "https://react-app-cursofh.web.app/"
   }
 ]
