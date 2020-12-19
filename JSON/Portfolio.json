@@ -6,7 +6,8 @@
     "image": "https://i.imgur.com/1HSspO9.png",
     "imageG": "https://i.imgur.com/zJz8mLP.png",
     "deploy": "Netlify",
-    "link": "https://login-firebase.netlify.app/"
+    "link": "https://login-firebase.netlify.app/",
+    "repo": "https://github.com/matiassalicru/Login-app"
   },
   {
     "id": 2,
@@ -15,16 +16,18 @@
     "image": "https://i.imgur.com/e1kTZwh.png",
     "imageG": "https://i.imgur.com/p695eaa.png",
     "deploy": "Cpanel con hosting y dominio .com.ar",
-    "link": "https://upo.com.ar/"
+    "link": "https://upo.com.ar/",
+    "repo": "https://github.com/matiassalicru/upo-bastidores"
   },
   {
     "id": 3,
-    "name": "Gify",
+    "name": "Gif app",
     "description": "Desarrollado en React interactuando con la API de Giphy para la búsqueda de gifs por un input, fue un proyecto muy divertido de crear donde utilicé en profundidad el uso de esta API, en el mismo realicé varios de mis primeros test con Jest y Enzyme.",
     "image": "https://i.imgur.com/2Egx2PD.png",
     "imageG": "https://i.imgur.com/0mv0bY4.png",
     "deploy": "GitHub Pages",
-    "link": "https://matiassalicru.github.io/Gif-Expert-App/"
+    "link": "https://matiassalicru.github.io/Gif-Expert-App/",
+    "repo": "https://github.com/matiassalicru/Gif-Expert-App"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "image": "https://i.imgur.com/Otg605n.png",
     "imageG": "https://i.imgur.com/PNXBPOn.png",
     "deploy": "Heroku",
-    "link": "https://matiassalicrudev.herokuapp.com/"
+    "link": "https://matiassalicrudev.herokuapp.com/",
+    "repo": "https://github.com/matiassalicru/mattCode"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "image": "https://i.imgur.com/VDRio7G.png",
     "imageG": "https://i.imgur.com/4FK15k1.png",
     "deploy": "Netlify",
-    "link": "https://apptodos.netlify.app/"
+    "link": "https://apptodos.netlify.app/",
+    "repo": "https://github.com/matiassalicru/TodoList"
   },
   {
     "id": 6,
@@ -51,6 +56,7 @@
     "image": "https://i.imgur.com/L65ekAY.png",
     "imageG": "https://i.imgur.com/VN42Alz.png",
     "deploy": "Firebase",
-    "link": "https://react-app-cursofh.web.app/"
+    "link": "https://react-app-cursofh.web.app/",
+    "repo": "https://github.com/matiassalicru/JournalApp"
   }
 ]
